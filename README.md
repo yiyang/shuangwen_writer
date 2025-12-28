@@ -59,8 +59,8 @@
 安装步骤
 
 1. 克隆项目
-git clone https://github.com/yiyang/shuangwen-agent.git
-cd shuangwen-agent
+git clone https://github.com/yiyang/shuangwen_writer.git
+cd shuangwen_writer
 
 
 2. 安装依赖

@@ -311,9 +311,7 @@ pytest --cov=shuangwen_agent tests/
 
 • 📧 邮箱：contactyang@163.com
 
-• 💬 讨论区：https://github.com/yiyang/shuangwen-agent/discussions
-
-• 🐛 问题反馈：https://github.com/yiyang/shuangwen-agent/issues
+• 🐛 问题反馈：https://github.com/yiyang/shuangwen_writer/issues
 
 如果这个项目对你有帮助，请给个 ⭐️ 支持一下！
 
